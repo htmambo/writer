@@ -4,6 +4,7 @@
 
 <img src="/intellij/assets/intellij-demo.gif" width="100%" />
 
+
 <!-- Plugin description -->
 
 ### The AI powered documentation writer.
